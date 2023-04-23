@@ -1,0 +1,22 @@
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\bin\Debug\magic__square.exe.config
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\bin\Debug\magic__square.exe
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\bin\Debug\magic__square.pdb
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.Form1.resources
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.Properties.Resources.resources
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.exe
+C:\Users\Rose\Desktop\data structure\magic___square\magic__square\obj\Debug\magic__square.pdb
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\bin\Debug\magic__square.exe.config
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\bin\Debug\magic__square.exe
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\bin\Debug\magic__square.pdb
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic_square.Form1.resources
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.Properties.Resources.resources
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.exe
+C:\Users\Rose\Desktop\university\Term 4\data structure\magic_square\magic__square\obj\Debug\magic__square.pdb

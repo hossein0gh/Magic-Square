@@ -69,7 +69,8 @@ namespace magic_square
             #endregion
 
             // sum of each row,column or diaginal
-            int sum = n * (n * n + 1) / 2;
+            int sum ;
+            sum = n * (n * n + 1) / 2;
             sum_txtbox.Text = sum.ToString();
         }
 
